@@ -1,0 +1,6 @@
+com\akamal\utils\DataLoader.class
+com\akamal\repository\EmployeeRepository.class
+com\akamal\ProductServiceApplication.class
+com\akamal\model\Employee.class
+com\akamal\config\SpringFoxConfig.class
+com\akamal\controller\HomeController.class
